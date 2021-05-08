@@ -1,10 +1,10 @@
 # SpgtiCube
 ![](https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube.jpg)
 
-SpgtiCube is a printable interlocking building cubes (also known as :Toy blocks , building bricks, building blocks, or simply blocks),these building brick are attached together using spagitti sticks.
+**SpgtiCube** is a printable interlocking building cubes (also known as :Toy blocks , building bricks, building blocks, or simply blocks),these building brick are attached together using spagitti sticks.
 The dimensions of the single cube are 12 mm^3.
 
-SpgtiCub files for printing are:
+**SpgtiCub** files for printing are:
 
 **Obj** file
 https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.obj
@@ -13,8 +13,8 @@ https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.obj
 https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.mix
 
 
-the design is open for printing but not for mass production.
-SpgtiCube is designed by **Tarek Mahmoud Samy** ,tarek.mahmoud.samy@hotmail.com. 
+The design is open for printing but not for mass production.
+**SpgtiCube** is designed by **Tarek Mahmoud Samy** ,tarek.mahmoud.samy@hotmail.com. 
 Official website **spgticube.com**
 SpgtiCube is licensed under  **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.(CC BY-NC-ND 4.0)**
 
