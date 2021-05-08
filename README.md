@@ -14,8 +14,13 @@ https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.mix
 
 
 The design is open for printing but not for mass production.
-**SpgtiCube** is designed by **Tarek Mahmoud Samy** ,tarek.mahmoud.samy@hotmail.com. 
-Official website **spgticube.com**
+
+**SpgtiCube** is designed by **Tarek Mahmoud Samy** ,tarek.mahmoud.samy@hotmail.com
+
+**Official website**  **spgticube.com**
+
+**reddit community** https://www.reddit.com/r/SpgtiCube/
+
 SpgtiCube is licensed under  **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.(CC BY-NC-ND 4.0)**
 
 
