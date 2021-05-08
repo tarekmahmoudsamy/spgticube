@@ -6,6 +6,7 @@ the dimensions of the single cube are 12 mm^3.
 SpgtiCub files for printing are:
 
 obj file                   https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.obj
+
 autodesk meshmixer file     https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.mix
 
 
