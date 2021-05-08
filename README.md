@@ -7,13 +7,13 @@ The dimensions of the single cube are 12 mm^3.
 **SpgtiCub** files for printing are:
 
 **Obj** file
-https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.obj
+- https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.obj
 
 **Autodesk meshmixer** file
-https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.mix
+- https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.mix
 
 
-The design is open for printing but not for mass production.
+```diff +The design is open for printing but not for mass production.```
 
 **SpgtiCube** is designed by **Tarek Mahmoud Samy** ,tarek.mahmoud.samy@hotmail.com
 
