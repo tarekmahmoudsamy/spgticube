@@ -1,5 +1,15 @@
 # spgticube
-a printable toy composed of building brick attached together using spagitti sticks 
+![](https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube.jpg)
+
+a printable toy composed of building brick attached together using spagitti sticks
+
+
+
+Watch the video
+
+[![spgticube on Youtube](https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube2.jpg)](https://https://www.youtube.com/watch?v=pQxLeeunF0c)
+
+
 
  SpgtiCube
  
