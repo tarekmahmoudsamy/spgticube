@@ -20,7 +20,7 @@ SpgtiCube is licensed under  **Creative Commons Attribution-NonCommercial-NoDeri
 
 
 
-**Watch the video**
+##Watch the video
 
 [![spgticube on Youtube](https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube2.jpg)](https://www.youtube.com/watch?v=pQxLeeunF0c)
 
@@ -31,7 +31,7 @@ SpgtiCube is licensed under  **Creative Commons Attribution-NonCommercial-NoDeri
 
 
 
-**About SpgtiCube**
+##About SpgtiCube
  
 SpgtiCube is a novel interlocking set of building cubes (also known as :Toy blocks , building bricks, building blocks, or simply blocks). 
 SpgtiCube single piece,  is a three-dimensional solid object bounded by six square faces and each face has two holes.
