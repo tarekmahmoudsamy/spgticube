@@ -4,8 +4,10 @@
 SpgtiCube is a printable toy composed of building brick attached together using spagitti sticks.
 the dimensions of the single cube are 12 mm^3.
 SpgtiCub files for printing are:
-.obj file                   https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.obj
+
+obj file                   https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.obj
 autodesk meshmixer file     https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.mix
+
 
 the design is open for printing but not for mass production.
 SpgtiCube is designed by Tarek Mahmoud Samy ,tarek.mahmoud.samy@hotmail.com. Official website spgticube.com
@@ -19,7 +21,7 @@ Watch the video
 
 
 
- SpgtiCube
+About SpgtiCube
  
 SpgtiCube is a novel interlocking set of building cubes (also known as :Toy blocks , building bricks, building blocks, or simply blocks). 
 SpgtiCube single piece,  is a three-dimensional solid object bounded by six square faces and each face has two holes.
