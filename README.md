@@ -5,10 +5,10 @@ SpgtiCube is a printable toy composed of building brick attached together using 
 the dimensions of the single cube are 12 mm^3.
 SpgtiCub files for printing are:
 
-**obj file**
+**Obj** file
 https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.obj
 
-**autodesk meshmixer file**
+**Autodesk meshmixer** file
 https://github.com/tarekmahmoudsamy/spgticube/blob/main/spgticube3d.mix
 
 
